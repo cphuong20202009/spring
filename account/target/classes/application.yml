@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    url: jdbc:sqlserver://localhost:1433;databaseName=nghia_account
+    username: sa
+    password: P@ssword123
+  jpa:
+    show-sql: true
+    hibernate:
+      # Hibernate ddl auto (create, create-drop, update)
+      ddl-auto: none
