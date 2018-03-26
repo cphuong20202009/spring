@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
 Built-By: Nghia
 Build-Jdk: 9.0.1
+Implementation-Title: oauth2
+Implementation-Version: 1.0
+Implementation-Vendor-Id: nghia
+Implementation-URL: http://maven.apache.org
 Created-By: Maven Integration for Eclipse
 
